@@ -1,5 +1,8 @@
 # Unity: Block Breaker!
 
+<p align="center">
+  <a href="https://simmer.io/@bhavyajustchill/block-breaker"><img height=85px src="screenshots/final_playDemoBtn.png" /> </a> </p>
+
 - This game is an Arkanoid Clone! Here, you have to destroy Bricks with your Ball and prevent Ball from falling down via a Paddle in order to win one level and move forward to another!
 - This game has four kind of bricks:
   - The Fragile Brick breaks in 1 Hit <b><i>[Yellow Colour]</b></i>
